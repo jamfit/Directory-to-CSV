@@ -1,0 +1,2 @@
+python-ldap==2.4.19
+wsgiref==0.1.2
